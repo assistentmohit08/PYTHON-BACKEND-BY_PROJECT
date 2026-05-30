@@ -1,0 +1,12 @@
+# 🟢 Project 2 – File Metadata & Storage Service
+
+"""
+We will build an API that:
+Accepts file uploads (any type)
+Saves files to an uploads/ folder with a safe name
+Returns metadata: original filename, saved name, file size, MIME type,upload timestamp
+Lists all uploaded files with their metadata
+Deletes a file by its saved name
+Use cases: Profile picture uploads, document management systems, file storage backends.
+
+"""
